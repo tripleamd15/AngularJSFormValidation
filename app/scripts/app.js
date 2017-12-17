@@ -3,7 +3,7 @@
 angular.module('confusionApp', [])
 
         .controller('DishDetailController', ['$scope', function ($scope) {
-            
+            //
             $scope.dish =
         {
             name: 'Uthapizza',
